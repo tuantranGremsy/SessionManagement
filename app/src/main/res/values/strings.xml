@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Session Management</string>
+    <string name="tv_login">LOGIN</string>
+    <string name="user_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="btnLogin">Login</string>
+    <string name="tvHome">HOME</string>
+    <string name="tvWelcome">--- Welcome ---</string>
+    <string name="btnLogout">Log Out</string>
+</resources>
